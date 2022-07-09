@@ -17,9 +17,9 @@ Use this tool to analyze your WhatsApp Chats with Cool Visualizations
 ![image](https://user-images.githubusercontent.com/44989568/177964185-0b0bf9ee-213b-4684-8819-ebcca16746dc.png)
 # Word Cloud | Font size is proportional to the frequency of word
 ![image](https://user-images.githubusercontent.com/44989568/177964677-0ffe0577-06c2-40c3-a4a1-ed2d8e754e12.png)
-# Most Common Words use in Chat
+# Most Common Words used in Chat
 ![image](https://user-images.githubusercontent.com/44989568/177964826-c5546b9f-3ea0-4a93-a790-19ae6f4eb16c.png)
 # Emojis Analysis | Frequency of Emojis & thier Percentage in Pie Chart of top 5 emojis
 ![image](https://user-images.githubusercontent.com/44989568/177965132-6f2350f7-90d8-4420-88d3-eef0d5053fb0.png)
-# You can select a particular user too from drop down
+# You can select a particular user as well from drop down
 ![image](https://user-images.githubusercontent.com/44989568/177965305-9d02ea08-f377-41c4-bc50-3439288c170e.png)
