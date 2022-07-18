@@ -1,5 +1,5 @@
 # WhatsInside-Analyze-your-WhatsApp-Chats
-Link: https://whatsinside.herokuapp.com/
+## AppLink: https://whatsinside.herokuapp.com/
 Use this tool to analyze your WhatsApp Chats with Cool Visualizations
 # Follow instructions below to Export your WhatsApp chats:
 ![image](https://user-images.githubusercontent.com/44989568/177962674-481f051f-275c-4329-92ec-19a86d692951.png)
